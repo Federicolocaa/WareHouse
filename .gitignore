@@ -1,0 +1,11 @@
+# Cartella cache di Gradle
+.gradle/
+
+# Cartella di output della build (contiene i .class e i report)
+build/
+
+# Impostazioni dell'IDE (VS Code)
+.vscode/
+
+# File di log
+*.log
